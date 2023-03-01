@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiagojgob
-- 👀 Estou interessado em **HTML, CSS, Scratch e Javascript** 😊
+- 👀 Estou interessado em **HTML, CSS, Scratch, Javascript e Robótica** 😊
 - 🌱 Atualmente estou iniciando em *Programação* ...💻
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : **tiago.gobetti@escola.pr.gov.br**
